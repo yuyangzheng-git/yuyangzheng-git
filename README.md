@@ -2,7 +2,7 @@
 
 **AI Agent & LLM systems builder** — evaluation-first, reproducible research engineering.
 
-Master of Commerce (FinTech) @ UNSW Sydney | Sydney, Australia
+Master of Commerce (FinTech) @UNSW Sydney | Sydney, Australia
 
 I build LLM applications where agents take actions in the world — and the evaluation harnesses
 that prove they work. I am open to a **volunteer research assistant (RA) position at UNSW
