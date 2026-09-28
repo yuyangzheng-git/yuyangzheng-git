@@ -5,6 +5,7 @@
 Master of Commerce (FinTech) @ UNSW Sydney | Sydney, Australia
 
 [![Email](https://img.shields.io/badge/Email-yuyangzheng0000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yuyangzheng0000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuyang_Zheng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuyang-zheng-b36901316/)
 [![GitHub](https://img.shields.io/badge/GitHub-yuyangzheng--git-181717?style=flat&logo=github&logoColor=white)](https://github.com/yuyangzheng-git)
 [![Location](https://img.shields.io/badge/Location-Sydney%2C_Australia-2F855A?style=flat&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/SydneyNSW)
 
