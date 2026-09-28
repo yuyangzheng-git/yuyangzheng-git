@@ -1,6 +1,6 @@
 # Yuyang Zheng
 
-**AI Agent & LLM systems builder** — evaluation-first, reproducible research engineering.
+**AI Agent and LLM Systems Developer** — evaluation-driven, reproducible research engineering.
 
 Master of Commerce (FinTech) @ UNSW Sydney | Sydney, Australia
 
@@ -9,9 +9,11 @@ Master of Commerce (FinTech) @ UNSW Sydney | Sydney, Australia
 [![GitHub](https://img.shields.io/badge/GitHub-yuyangzheng--git-181717?style=flat&logo=github&logoColor=white)](https://github.com/yuyangzheng-git)
 [![Location](https://img.shields.io/badge/Location-Sydney%2C_Australia-2F855A?style=flat&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/SydneyNSW)
 
-I build LLM applications where agents take actions in the world — and the evaluation harnesses
-that prove they work. My interests sit at the intersection of AI systems, evaluation
-methodology and business applications.
+I am a Master of Commerce (FinTech) candidate at UNSW Sydney, developing AI agent systems
+and LLM applications grounded in rigorous evaluation. My work spans tool-calling agents,
+streaming LLM platforms and multi-agent benchmarks, with an emphasis on reproducible
+experiments, controlled A/B comparisons and transparent reporting of uncertainty. My research
+interests lie in Business AI, safe and responsible AI, and evidence-grounded language models.
 
 ## Skills
 
