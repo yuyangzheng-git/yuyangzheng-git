@@ -9,8 +9,8 @@ Master of Commerce (FinTech) @ UNSW Sydney | Sydney, Australia
 [![Location](https://img.shields.io/badge/Location-Sydney%2C_Australia-2F855A?style=flat&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/SydneyNSW)
 
 I build LLM applications where agents take actions in the world — and the evaluation harnesses
-that prove they work. I am open to a **volunteer research assistant (RA) position at UNSW
-Business AI Lab**, focusing on Business AI and safe, responsible AI.
+that prove they work. My interests sit at the intersection of AI systems, evaluation
+methodology and business applications.
 
 ## Skills
 
